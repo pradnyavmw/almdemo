@@ -7,5 +7,5 @@ stringData:
  values.yaml: |
    ---
     workload_name: myweb-img-to-url
-    replicas: 10
+    replicas: 2
     hostname: myweb-img-to-url.mydevns.tap.mycompany.com
