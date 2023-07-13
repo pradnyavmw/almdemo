@@ -1,0 +1,9 @@
+---
+apiVersion: v1
+kind: Secret
+metadata:
+ name: source-to-url-serverworkload.mydevns.tap
+stringData:
+ values.yaml: |
+   ---
+    
