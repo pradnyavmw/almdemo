@@ -7,5 +7,5 @@ stringData:
  values.yaml: |
    ---
     workload_name: myserver-source-url
-    #replicas: 10
+    replicas: 21
     hostname: myserver-source-url.mydevns.tap.mycompany.com
