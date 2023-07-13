@@ -1,0 +1,11 @@
+---
+apiVersion: v1
+kind: Secret
+metadata:
+ name: myserverworkload.mydevns.tap
+stringData:
+ values.yaml: |
+   ---
+    # workload_name: myserver-source-url
+    # replicas: 2
+    # hostname: myserver-source-url.mydevns.tap.mycompany.com
